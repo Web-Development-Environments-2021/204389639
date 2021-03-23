@@ -12,7 +12,16 @@ h1
 }
 h2
 {
-  font-size: x-large;
+  font-size: xx-large;
+  background-color: rgba(100, 100, 100, 0.8);
+  /* width: 50%; */
+  align-self: center;
+  /* position:relative; */
+}
+
+hr{
+  width: 100%;
+  
 }
 #navigationBar
 {
